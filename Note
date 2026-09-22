@@ -2,4 +2,4 @@ Update the boundary coordinates as per your region.
 
 Replace +91XXXXXXXXXX with your own number.
 
-You may add OLED support using Adafruit_SSD1306 if needed.
+You may add OLED support using Adafruit_SSD1306 if needed by you.
